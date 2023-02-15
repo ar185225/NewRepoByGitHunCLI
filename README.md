@@ -1,1 +1,1 @@
-# NewRepoByGitHunCLI
+# NewRepoByGitHubCLI
